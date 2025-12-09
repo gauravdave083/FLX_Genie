@@ -1,5 +1,6 @@
 import OpenAI from 'openai';
 
+
 const OPENAI_API_KEY = 'paste here your key';
 
 const client = new OpenAI({
